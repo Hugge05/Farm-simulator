@@ -22,6 +22,8 @@ void Farm::Run()
 			std::cin.get();
 
 			break;
+		case 2: 
+			break;
 
 		case 4:
 			return;
