@@ -1,11 +1,12 @@
 #pragma once
-
+#include <iostream>
+#include <string>
 
 struct Farmer
 {
-	int budget = 5000;
-	int cash = 5000;
 	
+	int cash = 5000;
+	std::string köptaDjur = "";
 
 
 };

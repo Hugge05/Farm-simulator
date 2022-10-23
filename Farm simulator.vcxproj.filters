@@ -29,5 +29,8 @@
     <ClInclude Include="src\Farmer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\animals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

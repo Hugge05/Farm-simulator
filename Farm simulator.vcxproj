@@ -131,6 +131,7 @@
     <ClCompile Include="src\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\animals.h" />
     <ClInclude Include="src\Farm.h" />
     <ClInclude Include="src\Farmer.h" />
   </ItemGroup>
